@@ -1,0 +1,51 @@
+C:\Users\PC14\source\repos\text uygulaması\bin\Debug\netcoreapp3.1\text uygulaması.exe
+C:\Users\PC14\source\repos\text uygulaması\bin\Debug\netcoreapp3.1\text uygulaması.deps.json
+C:\Users\PC14\source\repos\text uygulaması\bin\Debug\netcoreapp3.1\text uygulaması.runtimeconfig.json
+C:\Users\PC14\source\repos\text uygulaması\bin\Debug\netcoreapp3.1\text uygulaması.runtimeconfig.dev.json
+C:\Users\PC14\source\repos\text uygulaması\bin\Debug\netcoreapp3.1\text uygulaması.dll
+C:\Users\PC14\source\repos\text uygulaması\bin\Debug\netcoreapp3.1\text uygulaması.pdb
+C:\Users\PC14\source\repos\text uygulaması\obj\Debug\netcoreapp3.1\text uygulaması.csproj.AssemblyReference.cache
+C:\Users\PC14\source\repos\text uygulaması\obj\Debug\netcoreapp3.1\text_uygulaması.Form1.resources
+C:\Users\PC14\source\repos\text uygulaması\obj\Debug\netcoreapp3.1\text uygulaması.csproj.GenerateResource.cache
+C:\Users\PC14\source\repos\text uygulaması\obj\Debug\netcoreapp3.1\text uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC14\source\repos\text uygulaması\obj\Debug\netcoreapp3.1\text uygulaması.AssemblyInfoInputs.cache
+C:\Users\PC14\source\repos\text uygulaması\obj\Debug\netcoreapp3.1\text uygulaması.AssemblyInfo.cs
+C:\Users\PC14\source\repos\text uygulaması\obj\Debug\netcoreapp3.1\text uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\PC14\source\repos\text uygulaması\obj\Debug\netcoreapp3.1\text uygulaması.dll
+C:\Users\PC14\source\repos\text uygulaması\obj\Debug\netcoreapp3.1\text uygulaması.pdb
+C:\Users\PC14\source\repos\text uygulaması\obj\Debug\netcoreapp3.1\text uygulaması.genruntimeconfig.cache
+C:\Users\PC14\source\repos\text uygulaması\obj\Debug\netcoreapp3.1\text_uygulaması.Properties.Resources.resources
+C:\Users\admin\Desktop\menuler-main\menuler-main\text uygulaması\bin\Debug\netcoreapp3.1\text uygulaması.exe
+C:\Users\admin\Desktop\menuler-main\menuler-main\text uygulaması\bin\Debug\netcoreapp3.1\text uygulaması.deps.json
+C:\Users\admin\Desktop\menuler-main\menuler-main\text uygulaması\bin\Debug\netcoreapp3.1\text uygulaması.runtimeconfig.json
+C:\Users\admin\Desktop\menuler-main\menuler-main\text uygulaması\bin\Debug\netcoreapp3.1\text uygulaması.runtimeconfig.dev.json
+C:\Users\admin\Desktop\menuler-main\menuler-main\text uygulaması\bin\Debug\netcoreapp3.1\text uygulaması.dll
+C:\Users\admin\Desktop\menuler-main\menuler-main\text uygulaması\bin\Debug\netcoreapp3.1\text uygulaması.pdb
+C:\Users\admin\Desktop\menuler-main\menuler-main\text uygulaması\obj\Debug\netcoreapp3.1\text uygulaması.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\menuler-main\menuler-main\text uygulaması\obj\Debug\netcoreapp3.1\text_uygulaması.Form1.resources
+C:\Users\admin\Desktop\menuler-main\menuler-main\text uygulaması\obj\Debug\netcoreapp3.1\text_uygulaması.Properties.Resources.resources
+C:\Users\admin\Desktop\menuler-main\menuler-main\text uygulaması\obj\Debug\netcoreapp3.1\text uygulaması.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\menuler-main\menuler-main\text uygulaması\obj\Debug\netcoreapp3.1\text uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\menuler-main\menuler-main\text uygulaması\obj\Debug\netcoreapp3.1\text uygulaması.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\menuler-main\menuler-main\text uygulaması\obj\Debug\netcoreapp3.1\text uygulaması.AssemblyInfo.cs
+C:\Users\admin\Desktop\menuler-main\menuler-main\text uygulaması\obj\Debug\netcoreapp3.1\text uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\menuler-main\menuler-main\text uygulaması\obj\Debug\netcoreapp3.1\text uygulaması.dll
+C:\Users\admin\Desktop\menuler-main\menuler-main\text uygulaması\obj\Debug\netcoreapp3.1\text uygulaması.pdb
+C:\Users\admin\Desktop\menuler-main\menuler-main\text uygulaması\obj\Debug\netcoreapp3.1\text uygulaması.genruntimeconfig.cache
+C:\Users\admin\Desktop\notebook\notebook\notebook\bin\Debug\netcoreapp3.1\text uygulaması.exe
+C:\Users\admin\Desktop\notebook\notebook\notebook\bin\Debug\netcoreapp3.1\text uygulaması.deps.json
+C:\Users\admin\Desktop\notebook\notebook\notebook\bin\Debug\netcoreapp3.1\text uygulaması.runtimeconfig.json
+C:\Users\admin\Desktop\notebook\notebook\notebook\bin\Debug\netcoreapp3.1\text uygulaması.runtimeconfig.dev.json
+C:\Users\admin\Desktop\notebook\notebook\notebook\bin\Debug\netcoreapp3.1\text uygulaması.dll
+C:\Users\admin\Desktop\notebook\notebook\notebook\bin\Debug\netcoreapp3.1\text uygulaması.pdb
+C:\Users\admin\Desktop\notebook\notebook\notebook\obj\Debug\netcoreapp3.1\text uygulaması.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\notebook\notebook\notebook\obj\Debug\netcoreapp3.1\text_uygulaması.Form1.resources
+C:\Users\admin\Desktop\notebook\notebook\notebook\obj\Debug\netcoreapp3.1\text_uygulaması.Properties.Resources.resources
+C:\Users\admin\Desktop\notebook\notebook\notebook\obj\Debug\netcoreapp3.1\text uygulaması.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\notebook\notebook\notebook\obj\Debug\netcoreapp3.1\text uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\notebook\notebook\notebook\obj\Debug\netcoreapp3.1\text uygulaması.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\notebook\notebook\notebook\obj\Debug\netcoreapp3.1\text uygulaması.AssemblyInfo.cs
+C:\Users\admin\Desktop\notebook\notebook\notebook\obj\Debug\netcoreapp3.1\text uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\notebook\notebook\notebook\obj\Debug\netcoreapp3.1\text uygulaması.dll
+C:\Users\admin\Desktop\notebook\notebook\notebook\obj\Debug\netcoreapp3.1\text uygulaması.pdb
+C:\Users\admin\Desktop\notebook\notebook\notebook\obj\Debug\netcoreapp3.1\text uygulaması.genruntimeconfig.cache

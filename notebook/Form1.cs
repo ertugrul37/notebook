@@ -58,7 +58,7 @@ namespace text_uygulaması
         private void dosyaKaydet_Click(object sender, EventArgs e)
         {
             SaveFileDialog kaydet = new SaveFileDialog();
-            kaydet.Filter = "Text Uygulaması|*.txt| Word Dosyası|*.docx";
+            kaydet.Filter = "Not Uygulaması|*.txt| Word Dosyası|*.docx";
             DialogResult cevap = kaydet.ShowDialog();
             if (cevap == DialogResult.OK)
             {
